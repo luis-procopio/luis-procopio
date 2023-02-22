@@ -1,6 +1,7 @@
-### Hi there 👋
+###  Eu sou o Luís 
 
-- 🔭 I’m currently working on back-end
+- 🔭 Atualmente trabalhando no back-end Node Js., Typescript e Prisma ORM
+- Estudando React Native
 
 <div>
   <a href="https://github.com/luis-rocopio">
