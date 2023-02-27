@@ -1,6 +1,6 @@
 ###  Eu sou o Luís 
 
-- 🔭 Atualmente trabalhando no back-end Node Js., Typescript e Prisma ORM
+- Atualmente trabalhando no back-end Node Js., Typescript e Prisma ORM
 - Estudando React Native
 
 <div align="center">
