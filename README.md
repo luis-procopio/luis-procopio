@@ -1,4 +1,4 @@
-
+<img src="header.svg" alt="Header">
 - Atualmente trabalhando no back-end Node Js., Typescript e Prisma ORM
 - Estudando React Native
 
