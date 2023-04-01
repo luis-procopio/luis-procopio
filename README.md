@@ -1,5 +1,5 @@
 <img src="header.svg" alt="Header">
-- Atualmente trabalhando no back-end Node Js., Typescript e Prisma ORM
+- Atualmente trabalhando no back-end com Node.js, Typescript e Prisma ORM
 - Estudando React Native
 
 <div align="center">
