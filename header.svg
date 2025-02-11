@@ -4,7 +4,7 @@
 
 svg text {
   transform-origin: 50% 50%;
-  transform: translate(0%, -40%) rotate(180deg);
+  transform: translate(9%, -40%) rotate(180deg);
 }
 
 svg image {
@@ -180,7 +180,7 @@ g.typingUnderline rect {
 <text font-family="Courier New" font-size=".22em" fill="white"
       font-weight="bold" letter-spacing="0.5">
   <textPath xlink:href="#nameTyping" >
-      Hi, I am Luís!
+      Work in Progress… Always!
   </textPath>
 </text>
 
