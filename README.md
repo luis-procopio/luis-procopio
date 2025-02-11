@@ -1,10 +1,10 @@
 <img src="header.svg" alt="Header">
 
-# 👩🏻‍💻 Luís
+# Luís
 
 **`Desenvolvedor Back-end`**
 
-Me chamo Luís Augusto, tenho 22 anos e sou natural de Três Rios - RJ. Formado em Análise e Desenvolvimento de Sistemas pela Universidade de Vassouras. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu LinkedIn "[Luis Procópio](www.linkedin.com/in/luís-procopio)".
+Me chamo Luís Augusto, tenho 22 anos e sou natural de Três Rios - RJ. Formado em Análise e Desenvolvimento de Sistemas pela Universidade de Vassouras. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu LinkedIn "[Luis Procópio](https://www.linkedin.com/in/luís-procopio)".
 - Atualmente trabalhando no back-end com Node.js, Typescript e Prisma ORM
 - Estudando React Native
 
