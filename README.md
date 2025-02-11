@@ -1,19 +1,49 @@
 <img src="header.svg" alt="Header">
+
+# 👩🏻‍💻 Luís
+
+**`Desenvolvedor Back-end`**
+
+Me chamo Luís Augusto, tenho 22 anos e sou natural de Três Rios - RJ. Formado em Análise e Desenvolvimento de Sistemas pela Universidade de Vassouras. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu LinkedIn "[Luis Procópio](www.linkedin.com/in/luís-procopio)".
 - Atualmente trabalhando no back-end com Node.js, Typescript e Prisma ORM
 - Estudando React Native
 
-<div align="center">
-  <a href="https://github.com/luis-procopio">
-    <img height="150em" width="40%" src="https://github-readme-stats.vercel.app/api?username=luis-procopio&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-procopio&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
- 
- <div align="center" valign="top"><br>
-  <img align="center" alt="Luis-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Luis-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Luis-Prisma" height="30" width="35" src="https://user-images.githubusercontent.com/108732662/220519454-a2a0001b-b173-427f-83da-1506b0eabbe2.png" />
-  <img align="center" alt="Luis-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
- </div>
- 
+<p align="left">
+    <a href="https://github.com/luis-procopio?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/luis-procopio?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/luis-procopio?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/luis-procopio?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=luis-procopio&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-procopio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
  
